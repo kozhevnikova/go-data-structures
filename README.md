@@ -16,4 +16,4 @@ Jane Kozhevnikova
 
 ## Contacts
 jane.kozhevnikova@gmail.com  
-twitter.com/enthusiastic_io
+https://twitter.com/enthusiastic_io
